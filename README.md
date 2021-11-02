@@ -1,1 +1,1 @@
-# _Mycobacterium tuberculosis_Whole Genome Sequence Processing Workflow
+# _M. tuberculosis_ Whole Genome Sequence Processing Workflow
