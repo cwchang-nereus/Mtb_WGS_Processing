@@ -1,1 +1,1 @@
-# Mtb_WGS_Processing
+# _Mycobacterium tuberculosis_Whole Genome Sequence Processing Workflow
