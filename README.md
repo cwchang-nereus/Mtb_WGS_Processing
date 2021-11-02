@@ -1021,6 +1021,7 @@ barplot <-
 plot_grid(rasterGrob(venn.diagram.png),barplot,rel_heights = c(3,1),ncol = 2,
           labels = c("Venn diagram of SNP counts","SNP counts"),hjust = -0.02,vjust = 1.5)
 ```
+![Image of SNP Discrepancy](https://github.com/cwchang-nereus/Mtb_WGS_Processing/blob/main/GATK-samtools_SNP_vcf_VD.png)
 
 ### 7.6.3 `[R]`Plot Venn diagrams for INDEL sets
 ```
@@ -1090,6 +1091,7 @@ barplot <-
 plot_grid(rasterGrob(venn.diagram.png),barplot,rel_heights = c(3,1),ncol = 2,
           labels = c("Venn diagram of INDEL counts","INDEL counts"),hjust = -0.02,vjust = 1.5)
 ```
+![Image of INDEL Discrepancy](https://github.com/cwchang-nereus/Mtb_WGS_Processing/blob/main/GATK-samtools_INDEL_vcf_VD.png)
 
 ## 7.7 Filtered variant set evaluation
 ### 7.7.1 Filtered variants by PICARD and GATK
